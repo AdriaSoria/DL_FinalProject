@@ -18,7 +18,9 @@ To execute the notebooks in Google Colab, follow these steps:
   [Download the original dataset](#) → Save it to your Google Drive → Update the file path in the notebook where indicated (see image).
 
 - For **baseline and modeling notebooks** (`DL_FinalProject (Baseline).ipynb`, `DL_FinalProject (First/Segond/Third Approach).ipynb`): https://drive.google.com/file/d/1l2O4sL_XOvnuF8fGpJGZU6ZqDKo_X-LV/view?usp=sharing
-  [Download the preprocessed dataset](#) → Save it to your Google Drive → Update the file path in the notebooks accordingly.
+  [Download the preprocessed dataset](#) → Save it to your Google Drive → Update the file path in the notebooks accordingly (see image).
+
+![Model Architecture](images/change_file_path.png)
 
 ### 2. Run the notebooks in Google Colab:
 
