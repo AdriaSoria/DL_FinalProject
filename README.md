@@ -28,5 +28,13 @@ Once the datasets are in place and the file paths are updated, simply open the n
 
 ---
 
+**P103 - Team L**
+
+*   Adrià Soria - 251729
+*   Judit Viladecans - 251437
+*   Paula Ceprián - 252503
+
+---
+
 📌 _Note: This project uses Google Drive integration for data loading. Make sure your dataset is properly uploaded and accessible within the notebook environment._
 
