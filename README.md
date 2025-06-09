@@ -2,9 +2,9 @@
 
 This implementation presents a deep learning solution for predicting household electricity consumption patterns using Long Short-Term Memory (LSTM) networks. The primary objective is to forecast future power consumption values based on historical usage data, helping to anticipate energy demands at the household level. By analyzing temporal sequences of power-related features including global active power, reactive power, voltage, and current intensity, the model learns to recognize and predict consumption patterns across different time periods. This predictive capability has practical applications in smart home energy management, helping households optimize their energy usage and potentially reduce costs.
 The focus here is to:
-•	Train and run a predictive model using a sequence-to-sequence architecture with LSTM neural networks to forecast household electricity consumption.
-•	Iteratively enhance the basic LSTM architecture through various optimization strategies to maximize prediction accuracy.
-•	Exploration of advanced features in the model design, such as stateful LSTM layers and time series cross-validation, to improve upon the basic implementation and achieve more robust predictions.
+- Train and run a predictive model using a sequence-to-sequence architecture with LSTM neural networks to forecast household electricity consumption.
+- Iteratively enhance the basic LSTM architecture through various optimization strategies to maximize prediction accuracy.
+- Exploration of advanced features in the model design, such as stateful LSTM layers and time series cross-validation, to improve upon the basic implementation and achieve more robust predictions.
 
 ---
 
